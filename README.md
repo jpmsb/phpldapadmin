@@ -1,2 +1,2 @@
-# phpldapadmin
+# PHPLDAPAdmin
 Imagem com PHPLDAPAdmin
